@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kenji-fukushima-lab.github.io/sitemap.xml
+Sitemap: https://kamome1201.github.io/old-website-mirror/sitemap.xml
